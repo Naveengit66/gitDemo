@@ -10,7 +10,7 @@ public class RestAPITest {
 		System.out.println("postJira2");
 	}
 	@Test
-	public void deleteTwitter() {
+	public void deleteTwitter3() {
 		System.out.println("deleteTwitter");
 		
 	}
